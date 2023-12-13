@@ -1,2 +1,2 @@
-<img src="event.png" alt="vasanth-fsd-developer" />
+![MasterHead](event.png)
 A Form for College Welcome Party.
