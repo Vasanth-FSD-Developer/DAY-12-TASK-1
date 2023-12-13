@@ -1,2 +1,2 @@
-# DAY-12-TASK-1
+event.png
 A Form for College Welcome Party.
